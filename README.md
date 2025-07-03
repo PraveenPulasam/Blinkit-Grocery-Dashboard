@@ -37,7 +37,7 @@ This Power BI project showcases an interactive dashboard designed for **BlinkIT*
 |-----------------------------------|---------------------------------------------|
 | `Blinkit.pbix`                    | Power BI report file                        |
 | `BlinkIT Grocery Data.xlsx`       | Excel source file used for data modeling    |
-| `Screenshot 2025-07-03 115843.png`| Dashboard image preview                     |
+| `Screenshot.png`| Dashboard image preview                     |
 | `README.md`                       | Project documentation (this file)           |
 
 ---
